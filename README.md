@@ -12,7 +12,7 @@ result.csv: Output file containing the Topsis Score and Rank for each model afte
 
 topsis_score_plot.png: Bar plot visualizing the Topsis Score for each model.
 
-Topsis.py: Python script for applying the Topsis method to evaluate pre-trained models for text sentence similarity.
+topsis.py: Python script for applying the Topsis method to evaluate pre-trained models for text sentence similarity.
 
 **Dependencies**
 
